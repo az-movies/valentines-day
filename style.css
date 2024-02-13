@@ -125,7 +125,10 @@ h2 {
     text-shadow: 2px 2px 20px rgb(255, 0, 0);
   }
 }
-
+a#content{
+  width: inherit;
+  height: auto;
+}
 h1 {
   color: #ffffff;
   font-size: 50px;
